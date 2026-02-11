@@ -1,0 +1,5 @@
+name = "RTHybrid Komendantov-Kononenko 1996 Neuron"
+kind = "rthybrid_komendantov_kononenko_1996_neuron"
+version = "0.1.0"
+description = "Komendantov-Kononenko 1996 bursting neuron model"
+library = "librthybrid_komendantov_kononenko_1996_neuron.so"
